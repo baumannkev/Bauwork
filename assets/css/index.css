@@ -1,4 +1,4 @@
-/* Google Maps */
+  /* Google Maps */
 .map-container {
     overflow: hidden;
     padding-bottom: 56.25%;
@@ -13,3 +13,4 @@
     width: 100%;
     position: absolute;
   }
+

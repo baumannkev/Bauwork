@@ -14,3 +14,10 @@
     position: absolute;
   }
 
+  @media screen and (max-width: 500px){
+    #office1{
+      width: 680px;
+      max-height: 200px;
+    }
+  }
+
